@@ -1,0 +1,5 @@
+Find what: ^(.{3})(.)
+Replace with: \1X
+
+
+^.{63,63}$
